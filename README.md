@@ -34,4 +34,4 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 <li>random forest class
 <li>Naive bayes
 
-**Best Model Accuracy:** -- 95.00%
+**From KNN model is  Best Model Accuracy:** -- 95.00%
