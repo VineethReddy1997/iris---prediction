@@ -33,4 +33,5 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 <li>Extra tree class
 <li>random forest class
 <li>Naive bayes
-**Best Model Accuracy:** 95.00%
+
+**Best Model Accuracy:** -- 95.00%
